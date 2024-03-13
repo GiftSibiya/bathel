@@ -11,7 +11,7 @@ import Contact from "../app/components/Contact";
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="m-0">
       {/* Navbar */}
       <div className="">
         <Navbar />
